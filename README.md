@@ -8,7 +8,7 @@
 ## Executive Summary
 The goal of this project was to create an application that serves two purposes: help user to avoid ongoing wild-fires within California  and help them to avoid COVID-19 hotspots. The application would additionally display the location of Gas stations upon request. The data for this project was obtained from two sources namely:
 <ul>
-        <li> OpenStree Map API: This API was used to access data for California's amenities such as the location of the Gas stations</li>
+        <li> OpenStreet Map API: This API was used to access data for California's amenities such as the location of the Gas stations</li>
         <li> Fire <a href ="fire.ca.gov/incidents/2020"> data</a> from California Department of Forestry and Fire Protection</li>
 </ul>
 
